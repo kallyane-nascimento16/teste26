@@ -1,0 +1,8 @@
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\poo_01\poo_1\obj\Debug\poo_1.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\poo_01\poo_1\obj\Debug\poo_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\poo_01\poo_1\obj\Debug\poo_1.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\poo_01\poo_1\bin\Debug\poo_1.exe.config
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\poo_01\poo_1\bin\Debug\poo_1.exe
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\poo_01\poo_1\bin\Debug\poo_1.pdb
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\poo_01\poo_1\obj\Debug\poo_1.exe
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\poo_01\poo_1\obj\Debug\poo_1.pdb
